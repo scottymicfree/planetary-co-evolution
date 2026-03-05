@@ -1,0 +1,76 @@
+planetary-co-evolution/
+├── README.md                     # Welcome, vision, purpose, quick start, links to CHARTER.md
+├── CHARTER.md                    # Full consolidated charter text (Draft 0.4 with all Articles, mandates table, signatures)
+├── CONTRIBUTING.md               # How to contribute: amendments, forks, pilots, code/logic proposals
+│
+├── ontology/                     # Shared semantic layer & valuation rules
+│   └── tags-and-weighting.md     # Living taxonomy, resource valuation weights, harmonic scoring rules
+│
+├── human-rights/                 # Tier 1 foundational protections (hardest to amend)
+│   ├── sovereignty.md
+│   ├── free-speech.md
+│   ├── religion.md
+│   ├── protest.md
+│   ├── bodily-autonomy.md
+│   ├── human-override.md         # Absolute veto / pause / reverse procedures
+│   └── right-of-refusal.md       # Opt-out paths & coercion protections
+│
+├── planetary-ledger/             # Global Autonomous Resource Ledger (Twin Earth 2 core)
+│   ├── twin-earth-2.md           # Digital twin specs, data parity rules
+│   ├── global-ledger.md          # Resource tracking, account structure
+│   ├── harm-calculation.md       # Externality costing formulas (ecological + social)
+│   ├── reallocation-logic.md     # Autonomous equilibrium algorithms & pseudocode
+│   ├── ecological-thresholds.md  # Current planetary boundaries values & breach status
+│   └── impact-dashboard.md       # Public visualization & query interface spec
+│
+├── ai-boundaries/                # AI role delineation & red lines
+│   ├── 07-ai-capabilities.md     # Allowed & encouraged optimizations
+│   ├── 07b-ai-prohibitions.md    # Immutable prohibitions
+│   ├── transparency-rules.md     # Mandatory logs & traces
+│   ├── explainability.md         # Standards for auditable reasoning
+│   └── sandbox-architecture.md   # Safe simulation & testing containment
+│
+├── fail-safes/                   # Safety & human control mechanisms
+│   ├── shutdown-protocols.md     # Graduated shutdown (local → regional → global)
+│   ├── anomaly-detection.md      # Monitoring for rogue/out-of-harmonic behavior
+│   ├── containment.md            # Immediate isolation procedures
+│   ├── human-override.md         # Step-by-step citizen veto process
+│   └── fail-safe-principles.md   # Core axioms (Safety > Speed > Efficiency)
+│
+├── governance/                   # Three-tier legal architecture
+│   ├── immutable-laws.md         # Tier 1 – sovereignty core
+│   ├── ai-enforced-rules.md      # Tier 2 – ledger & 10 mandates enforcement
+│   ├── human-only-laws.md        # Tier 3 – local cultural & social rules
+│   └── dispute-resolution.md     # Binding conflict process (human ↔ AI)
+│
+├── citizens/                     # Individual rights & duties in the co-evo era
+│   ├── rights.md
+│   ├── responsibilities.md
+│   ├── impact-visibility.md      # Personal harmonic footprint access
+│   └── consent-and-opt-out.md    # Participation & full opt-out mechanisms
+│
+├── medical-and-biological/       # Rules for living systems & human health
+│   ├── simulation-protocols.md   # Virtual-first testing (trillions of cells before humans)
+│   ├── consent-requirements.md   # Explicit, revocable, informed consent
+│   ├── safety-thresholds.md      # Bio-harmonic & long-term health limits
+│   └── trial-approval.md         # Stage-gate from sim → real-world
+│
+├── audits-and-accountability/    # Continuous verification & learning
+│   ├── real-time-audits.md
+│   ├── independent-review.md     # Rotating human/third-party auditors
+│   ├── public-reporting.md       # Disclosure schedules (incl. mandate compliance)
+│   └── post-mortem-template.md   # Standardized incident review format
+│
+├── experiments/                  # Controlled, time-bound pilots
+│   ├── biome-pilots/             # Large-scale ecological experiments
+│   ├── city-pilots/              # Urban / municipal ledger & governance trials
+│   └── medical-pilots/           # Sandboxed health & biology trials
+│
+├── forks/                        # Legitimate parallel divergences
+│   ├── biome-forks/              # Alternate boundary weighting & management
+│   └── city-ledgers/             # Localized ledger & economic experiments
+│
+└── amendments/                   # Formal evolution pathway
+    ├── proposal-template.md      # Standard format for changes/PRs
+    ├── review-process.md         # Evaluation & discussion flow
+    └── voting-thresholds.md      # Quorum, supermajority, biome-balance rules
