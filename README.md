@@ -14,6 +14,11 @@ See [CHARTER.md](./CHARTER.md) for the full articles, mandates, and structure.
 - Unrestricted AI cognition with logs/audits  
 - Forkable evolution faster than threats
 
+Co--Evo core equations:
+https://drive.google.com/file/d/1j3p5emt-9AYtzY95RKb5ITtoHLR3Di4r/view?usp=drivesdk
+
+core logic do better then the last observor.
+
 ## Quick Start
 - Read → CHARTER.md  
 - Propose → Open an Issue with amendments (use proposal-template.md once added)  
