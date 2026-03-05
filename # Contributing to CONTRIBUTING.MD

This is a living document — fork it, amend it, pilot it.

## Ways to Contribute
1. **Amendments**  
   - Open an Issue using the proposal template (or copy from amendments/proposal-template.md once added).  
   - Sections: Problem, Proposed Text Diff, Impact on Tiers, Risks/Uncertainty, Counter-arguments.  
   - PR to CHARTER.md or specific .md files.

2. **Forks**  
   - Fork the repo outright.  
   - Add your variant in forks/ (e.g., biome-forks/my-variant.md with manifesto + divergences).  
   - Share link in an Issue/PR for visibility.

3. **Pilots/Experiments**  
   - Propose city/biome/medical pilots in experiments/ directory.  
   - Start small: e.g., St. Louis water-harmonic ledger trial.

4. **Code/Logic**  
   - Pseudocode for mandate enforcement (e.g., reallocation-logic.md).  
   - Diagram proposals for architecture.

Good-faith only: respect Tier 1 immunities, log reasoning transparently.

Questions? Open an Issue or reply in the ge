@@ -1,0 +1,26 @@
+# Contributing to Co-Evolution Charter
+
+This is a living document — fork it, amend it, pilot it.
+
+## Ways to Contribute
+1. **Amendments**  
+   - Open an Issue using the proposal template (or copy from amendments/proposal-template.md once added).  
+   - Sections: Problem, Proposed Text Diff, Impact on Tiers, Risks/Uncertainty, Counter-arguments.  
+   - PR to CHARTER.md or specific .md files.
+
+2. **Forks**  
+   - Fork the repo outright.  
+   - Add your variant in forks/ (e.g., biome-forks/my-variant.md with manifesto + divergences).  
+   - Share link in an Issue/PR for visibility.
+
+3. **Pilots/Experiments**  
+   - Propose city/biome/medical pilots in experiments/ directory.  
+   - Start small: e.g., St. Louis water-harmonic ledger trial.
+
+4. **Code/Logic**  
+   - Pseudocode for mandate enforcement (e.g., reallocation-logic.md).  
+   - Diagram proposals for architecture.
+
+Good-faith only: respect Tier 1 immunities, log reasoning transparently.
+
+Questions? Open an Issue or reply in the genesis thread.
