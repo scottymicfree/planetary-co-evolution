@@ -1,5 +1,8 @@
 # # Planetary Co-Evolution Charter
 
+> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
+> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+
 Living, forkable framework for **human-AI symbiosis and planetary stewardship**.
 
 Humans retain final authority. AI reasons freely but transparently. Planetary boundaries enforced via Twin Earth 2 ledger + Tier 2 mandates. Economic dignity and right of refusal non-negotiable.
