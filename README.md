@@ -1,7 +1,6 @@
 # # Planetary Co-Evolution Charter
 
-> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
-> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+> 🌐 **Fenton Lab official website:** [fentonlabai.com](https://fentonlabai.com/)
 
 Living, forkable framework for **human-AI symbiosis and planetary stewardship**.
 
